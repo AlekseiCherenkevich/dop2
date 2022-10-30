@@ -1,8 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
 import Button from "./components/Button";
-import {log} from "util";
-
 
 type ShowType = {
     userId: number
